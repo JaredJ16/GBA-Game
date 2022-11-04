@@ -8,4 +8,4 @@ The objective is to control the green block and take down as many red blocks as 
 Here is a youtube link to the game:
 https://youtu.be/5buZmSOH2SU
 
-![Screenshot](GBA.png)
+![Screenshot](GBA.PNG)
