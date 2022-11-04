@@ -7,4 +7,4 @@ The objective is to control the green block and take down as many red blocks as 
 
 Here is a youtube link to the game:
 https://youtu.be/5buZmSOH2SU
-![alt text](https://github.com/JaredJ16/GBA_Game/blob/main/GBA.png?raw=true)
+![alt text](https://github.com/JaredJ16/GBA-Game/blob/main/GBA.png?raw=true)
